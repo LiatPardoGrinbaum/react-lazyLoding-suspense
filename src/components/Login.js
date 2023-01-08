@@ -13,10 +13,6 @@ const BoxContainer = styled(Box)(({ theme }) => ({
   padding: "2rem",
   border: "1px solid lightgray",
   borderRadius: "7px",
-  //up - if its sm or bigger than it
-  // [theme.breakpoints.up("sm")]: {
-  //   display: "flex",
-  // },
 }));
 
 const Login = () => {

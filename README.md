@@ -1,4 +1,4 @@
-# Code Splitting with React
+# Improve React App preformance with Code Splitting
 
 - Lazy Loading
 
